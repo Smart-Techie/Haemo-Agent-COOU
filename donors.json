@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Chidi Okoro",
+        "blood_type": "O+",
+        "last_donation_date": "2023-11-15",
+        "location": "Igbo-Ukwu",
+        "phone": "08012345678"
+    },
+    {
+        "name": "Amaka Eze",
+        "blood_type": "A-",
+        "last_donation_date": "2024-01-20",
+        "location": "COOU Teaching Hospital",
+        "phone": "08012345678"
+    },
+    {
+        "name": "John Doe",
+        "blood_type": "B+",
+        "last_donation_date": "2024-02-01",
+        "location": "Nnewi",
+        "phone": "08012345678"
+    },
+    {
+        "name": "Chidi Okoro",
+        "blood_type": "O-",
+        "location": "Enugu City Center",
+        "last_donation": "2025-11-10",
+        "phone": "08012345678"
+    },
+    {
+        "name": "Amina Yusuf",
+        "blood_type": "A+",
+        "location": "Abakpa",
+        "last_donation": "2025-05-20",
+        "phone": "08023456789"
+    },
+    {
+        "name": "Emeka Eze",
+        "blood_type": "B+",
+        "location": "Independence Layout",
+        "last_donation": "2026-01-05",
+        "phone": "08034567890"
+    },
+    {
+        "name": "Nneka Obi",
+        "blood_type": "O+",
+        "location": "New Haven",
+        "last_donation": "2025-12-15",
+        "phone": "08045678901"
+    },
+    {
+        "name": "Tunde Ade",
+        "blood_type": "O-",
+        "location": "Trans Ekulu",
+        "last_donation": "2025-08-12",
+        "phone": "08056789012"
+    }
+]
